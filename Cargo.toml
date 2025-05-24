@@ -1,10 +1,10 @@
 [package]
 name = "deckbuilder_eng"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 description = "A modular engine for deck-builder games with egui UI, audio, and card/deck/game logic."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/ilicaemirhan/rust_game_engine"
+repository = "https://github.com/ilicaemirhan/rust_deckbuilder_eng"
 readme = "README.md"
 keywords = ["deckbuilder", "game", "egui", "audio", "cards"]
 categories = ["game-engines", "gui", "multimedia"]
