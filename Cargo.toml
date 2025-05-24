@@ -2,6 +2,12 @@
 name = "deckbuilder_eng"
 version = "0.1.0"
 edition = "2024"
+description = "A modular engine for deck-builder games with egui UI, audio, and card/deck/game logic."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/ilicaemirhan/rust_game_engine"
+readme = "README.md"
+keywords = ["deckbuilder", "game", "egui", "audio", "cards"]
+categories = ["game-engines", "gui", "multimedia"]
 
 [dependencies]
 egui = "0.27"
